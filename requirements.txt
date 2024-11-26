@@ -2,3 +2,4 @@ streamlit
 earthengine-api
 pillow
 requests
+altair<5
