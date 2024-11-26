@@ -3,3 +3,6 @@ earthengine-api
 pillow
 requests
 altair<5
+colorcet
+folium
+streamlit-folium
