@@ -8,7 +8,7 @@ from datetime import datetime
 
 # Earth Engineの初期化
 ee.Authenticate()
-ee.Initialize(project='pythonapi-277206')
+ee.Initialize(project='your-project-id')
 
 
 import math
